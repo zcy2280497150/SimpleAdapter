@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">adapter</string>
+    <item name="adapter_tag_view_key" type="id"/>
+</resources>
